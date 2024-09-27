@@ -1,0 +1,16 @@
+PODS:
+  - VungleAds (7.2.2)
+
+DEPENDENCIES:
+  - VungleAds
+
+SPEC REPOS:
+  trunk:
+    - VungleAds
+
+SPEC CHECKSUMS:
+  VungleAds: 1982548185a43a60f07066f28ddb5f12d67a90d7
+
+PODFILE CHECKSUM: 490cab6377a5875362b0a9b6cef930da3ecdd3bf
+
+COCOAPODS: 1.15.2
